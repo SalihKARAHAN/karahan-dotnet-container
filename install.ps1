@@ -1,0 +1,1 @@
+docker build -t karahan/dotnet:1.0.0 -t karahan/dotnet:latest .
